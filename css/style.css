@@ -1,0 +1,30 @@
+body {
+	background-color:  #efefef;
+}
+div.box {
+	text-align: center;
+
+}
+img { border: 1px solid white;
+
+}
+.mainbox { margin: 0 auto;
+	padding-top: 39px;
+	padding-right: 49px;
+    padding-bottom: 64px;
+	padding-left: 49px;
+	width: 512px;
+	height: 749px;
+	background-color: white;
+	border: 1px solid white;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+p { font: 14pt/18pt times;
+}
+li {font: 14pt/22pt times;
+}
+div.hr {border: 1;
+    margin: 0 auto;
+    padding-left: 0px;
+    padding-right: 18px;
+   }
